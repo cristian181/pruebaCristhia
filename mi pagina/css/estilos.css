@@ -1,0 +1,1447 @@
+body
+
+	{
+	background-color:white;
+	}
+/*///////////////////////////////////////////////////////header////////////////////////////////////////////*/
+#cuerpo
+	{
+	position:relative;
+	background-color:#D8D8D8;
+	top:40px;
+	height:640px;
+	width:1265px;
+	left:0px;
+	}
+
+.logo
+	{
+	position:relative;
+	background-image:url(../img/logo.png);
+	background-size:120px;
+	background-repeat:no-repeat;
+	float:left;
+	top:-10px;
+	left:40px;
+	height:50px;
+	width:145px;
+	}
+
+/*///////////////////////////////////////////////////////nav////////////////////////////////////////////*/
+#slider {
+	 position:relative;
+
+	 float:left;
+	 height:230px;
+	width:100%;
+	 left:0;
+	 
+}
+#slider img {
+	 position:relative;
+	 float:left;
+	 height:50px;
+	width:120px;
+}
+
+
+
+.img-2
+	{
+	position:absolute;
+	background-image:url(../img/cr7.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:-40px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	
+	}
+	.img-2:hover  {
+	 left:0px;
+}
+.img-3
+	{
+	position:absolute;
+	background-image:url(../img/m10.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:20px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-3:hover  {
+	 left:0px;
+}
+.img-4
+	{
+	position:absolute;
+	background-image:url(../img/falcao.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:80px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-4:hover  {
+	 left:0px;
+}
+.img-5
+	{
+	position:absolute;
+	background-image:url(../img/muriel.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:140px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-5:hover  {
+	 left:0px;
+}
+.img-6
+	{
+	position:absolute;
+	background-image:url(../img/j10.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:200px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-6:hover  {
+	 left:0px;
+}
+.img-7
+	{
+	position:absolute;
+	background-image:url(../img/pog.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:260px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-7:hover  {
+	 left:0px;
+}
+.img-8
+	{
+	position:absolute;
+	background-image:url(../img/ro10.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:320px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-8:hover  {
+	 left:0px;
+}
+.img-9
+	{
+	position:absolute;
+	background-image:url(../img/z10.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:380px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-9:hover  {
+	 left:0px;
+}
+.img-10
+	{
+	position:absolute;
+	background-image:url(../img/lew.png);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:440px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-10:hover  {
+	 left:0px;
+}
+.img-11
+	{
+	position:absolute;
+	background-image:url(../img/roben.jpg);
+	background-size:94px;
+	background-repeat:no-repeat;
+	float:left;
+	top:500px;
+	left:-80px;
+	height:50px;
+	width:94px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	z-index: +1;
+	}
+	.img-11:hover  {
+	 left:0px;
+}
+
+/**/
+/*/////////////////////////////////////////////////////////section////////////////////////////////////////////////////////////////*/
+#cuerpo-articulos
+	{
+	position:absolute;
+	background-color:#D8D8D8;
+	height:610px;
+	width:1000px;
+	
+	}
+/*/////////////////////////////////////////////////////////////////farandula principal////////////////////////////////////////////////*/
+#farandula4
+	{
+	position:absolute;
+	background-color:white;
+	background-size:40px;
+	background-repeat:no-repeat;
+	float:left;
+	top:25px;
+	left:35px;
+	height:495px;
+	width:580px;
+	border-radius: 10px 10px 10px 10px;
+	}
+#farandula4:hover
+	{
+	color:white;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 20px white;
+	}
+.img-1
+	{
+	position:absolute;
+	background-image:url(../img/cr7..jpg);
+	height:398px;
+	width:570px;
+	background-size:600px;
+	background-repeat:no-repeat;
+	border-radius:5px 5px 5px 5px;
+	top:5px;
+	left:6px;
+	border-radius:10px 10px 0px 0px;
+	
+	}
+.img-text
+	{
+	position:relative;
+	background-color:black;
+	opacity:0.8;
+	text-align:center;
+	text-decoration:none;
+	color:white;
+	font-size:13px;
+	font-family:boulder;
+	top:330px;
+	left:0px;
+	height:30px;
+	width:570px;
+
+	}
+#farandula4:hover .img-text
+	{
+	text-decoration:none;
+	color:white;
+	opacity:0.9;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 20px white;
+	}
+.article-img1
+	{
+	position:relative;
+	background-image:url(../img/rm.png);
+	background-size:60px;
+	background-repeat:no-repeat;
+	float:left;
+	top:-30px;
+	left:0px;
+	height:60px;
+	width:70px;
+	padding:100;
+	}
+.article-img2
+	{
+	position:relative;
+	background-image:url(../img/sc.png);
+	background-size:60px;
+	background-repeat:no-repeat;
+	float:left;
+	top:-30px;
+	left:20px;
+	height:60px;
+	width:70px;
+	}
+.article-img3
+	{
+	position:relative;
+	background-image:url(../img/vs.png);
+	background-size:40px;
+	background-repeat:no-repeat;
+	float:left;
+	top:0px;
+	left:-85px;
+	height:30px;
+	width:40px;
+	}
+.faran-pie-txt
+	{
+	position:relative;
+	text-align:center;
+	text-decoration:none;
+	background-color:green;
+	color:white;
+	font-size:13px;
+	font-family:arial;
+	top:410px;
+	left:6px;
+	height:80px;
+	width:570px;
+	border-radius: 0px 0px 10px 10px;
+
+	}
+#farandula4:hover .faran-pie-txt
+	{
+	opacity:1;
+	color:white;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	}
+
+/**/
+/*/////////////////////////////////////////////////////////////farandula de la  parte baja izquierda///////////////////////////////////////*/
+#farandula-text5
+	{
+	font-family:Britannic Bold;
+	color:#424242;
+	position:absolute;
+	background-color:white;
+	background-size:40px;
+	background-repeat:no-repeat;
+	text-align:center;
+	top:573px;
+	left:37px;
+	height:50px;
+	width:585px;
+	padding:0;
+	font-size:10px;
+	}
+.farandula-text5-img
+	{
+	position:relative;
+	background-image:url(../img/gu.jpg);
+	background-size:70px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:-33px;
+	left:0px;
+	height:48px;
+	width:60px;
+	}
+
+/**/
+/*///////////////////////////////////////////farandula de la  parte SUPERIOR derecha///////////////////////////////////////////////////////*/
+*
+	{
+	padding:0px;
+	margin:0px;
+
+	}
+ul,ol
+	{
+	list-style:none;
+	}
+.farandula-partidos
+	{
+	position:absolute;
+	text-decoration:none;
+	background-color:white;
+	color:black;
+	font-family:arial;
+	font-size:9.85px;
+	top:75px;
+	left:645px;
+	height:220px;
+	width:560px;
+	border-radius: 10px 10px 10px 10px;
+	} 
+.farandula-partidos li
+	{
+	color:black;
+	padding:5px;
+	text-align:left;
+	text-decoration:none;
+	list-style:none;
+
+	}	
+
+.farandula-partidos:hover
+	{
+	color:white;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 20px white;
+	}
+
+/**/
+/*/////////////////////////////////////////////////////////////////////farandula de la  parte baja derecha///////////////////////////////////////////////////*/
+
+#informe
+	{
+	position:absolute;
+	position: absolute;
+	height:295px;
+	width:540px;
+	top:350px;
+	left:650px;
+	background-size:500px;
+	background-repeat:no-repeat;
+	position:absolute;
+	font-family:arial;
+	text-decoration:none;
+	font-size:12.9px;
+	color:black;
+	}
+#farandula1
+
+	{
+	font-size:13px;
+	position:absolute;
+	background-color:#F2F2F2;
+	position: absolute;
+	height:280px;
+	width:150px;
+	top:2px;
+	left:10px;
+	border-radius:5px 5px 5px 5px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+
+	#farandula1:hover
+	{
+	position:absolute;
+	background-color:white;
+	position: absolute;
+	height:290px;
+	width:170px;
+	top:0px;
+	left:2px;
+	border-radius:5px 5px 5px 5px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	-webkit-transition:all 0.5s ease-in-out;
+	
+	}
+.img-in1
+	{
+	position:relative;
+	background-image:url(../img/aguero.jpg);
+	background-size:90px;
+	background-repeat:no-repeat;
+	float:left;
+	top:10px;
+	left:30px;
+	height:110px;
+	width:90px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	font 
+	}
+#farandula1:hover .img-in1
+	{
+	position:relative;
+	background-image:url(../img/aguero.jpg);
+	background-size:100px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:15px;
+	left:35px;
+	height:130px;
+	width:100px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E; 
+	}
+
+.in1
+	{
+	position:relative;
+	background-color:green;
+	background-size:70px;
+	background-repeat:no-repeat;
+	font-family:arial;
+	color:white;
+	float:left;
+	top:18px;
+	left:2px;
+	opacity:0.8;
+	text-decoration:none;
+	text-align:center;
+	height:150px;
+	width:146px;
+	border-radius:0px 0px 5px 5px;
+	
+	}
+
+
+#farandula1:hover .in1
+	{
+	position:relative;
+	background-color:green;
+	background-size:70px;
+	background-repeat:no-repeat;
+	font-family:arial;
+	color:white;
+	float:left;
+	top:25px;
+	left:2px;
+	opacity:2;
+	text-align:center;
+	height:130px;
+	width:165px;
+	border-radius:0px 0px 5px 5px;
+	-webkit-transition:all 0.5s ease-in-out;
+	
+	}
+
+#farandula2
+
+	{
+	font-size:13px;
+	position:absolute;
+	background-color:white;
+	position: absolute;
+	height:280px;
+	width:150px;
+	top:2px;
+	left:200px;
+	border-radius:5px 5px 5px 5px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#farandula2:hover
+	{
+	position:absolute;
+	background-color:white;
+	position: absolute;
+	height:290px;
+	width:170px;
+	top:0px;
+	left:190px;
+	border-radius:5px 5px 5px 5px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	-webkit-transition:all 0.5s ease-in-out;
+	
+	}
+.img-in2
+	{
+	position:relative;
+	background-image:url(../img/suarez.jpg);
+	background-size:200px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:10px;
+	left:30px;
+	height:110px;
+	opacity:0.8;
+	width:90px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	font 
+	}
+#farandula2:hover .img-in2
+	{
+	position:relative;
+	background-image:url(../img/suarez.jpg);
+	background-size:233px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:10px;
+	left:10px;
+	height:130px;
+	width:150px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	font 
+	}
+.in2
+	{
+	position:relative;
+	background-color:position:relative;
+	background-color:green;
+	background-size:70px;
+	background-repeat:no-repeat;
+	font-family:arial;
+	color:white;
+	float:left;
+	top:18px;
+	left:2px;
+	text-align:center;
+	height:150px;
+	width:146px;
+	border-radius:0px 0px 5px 5px;
+	opacity:0.8;
+	}
+
+
+#farandula2:hover .in2
+	{
+	position:relative;
+	background-color:position:relative;
+	background-color:green;
+	background-size:70px;
+	background-repeat:no-repeat;
+	font-family:arial;
+	color:white;
+	float:left;
+	top:20px;
+	left:2px;
+	opacity:2;
+	text-align:center;
+	opacity:2;
+	height:134px;
+	width:165px;
+	border-radius:0px 0px 5px 5px;
+	-webkit-transition:all 0.5s ease-in-out;
+	
+	}
+#farandula3
+
+	{
+
+	position:absolute;
+	background-color:white;
+	position: absolute;
+	height:280px;
+	width:150px;
+	top:2px;
+	left:380px;
+	border-radius:5px 5px 5px 5px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#farandula3:hover
+	{
+	position:absolute;
+	background-color:white;
+	position: absolute;
+	
+	height:290px;
+	width:170px;
+	top:0px;
+	left:370px;
+	border-radius:5px 5px 5px 5px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	-webkit-transition:all 0.5s ease-in-out;
+	
+	}
+.img-in3
+	{
+	position:relative;
+	background-image:url(../img/messi.jpg);
+	background-position:center;
+	background-size:120px;
+	background-repeat:no-repeat;
+	float:left;
+	top:10px;
+	left:30px;
+	height:110px;
+	width:90px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	font 
+	}
+#farandula3:hover .img-in3
+	{
+	position:relative;
+	background-image:url(../img/messi.jpg);
+	background-size:120px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:15px;
+	left:20px;
+	height:130px;
+	width:130px;
+	-webkit-transition:all 0.5s ease-in-out;
+	border-radius:0px 4px 4px 0px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	font 
+	}
+.in3
+	{
+	position:relative;
+	background-color:green;
+	background-size:70px;
+	background-repeat:no-repeat;
+	font-family:arial;
+	color:white;
+	float:left;
+	top:18px;
+	left:2px;
+	text-align:center;
+	height:150px;
+	width:146px;
+	border-radius:0px 0px 5px 5px;
+	opacity:0.8;
+	
+	}
+
+
+#farandula3:hover .in3
+	{
+	position:relative;
+	background-color:green;
+	background-size:70px;
+	background-repeat:no-repeat;
+	font-family:arial;
+	color:white;
+	float:left;
+	top:20px;
+	left:2px;
+	text-align:center;
+	height:134px;
+	width:165px;
+	border-radius:0px 0px 5px 5px;
+	-webkit-transition:all 0.5s ease-in-out;
+	opacity:2;
+	
+	}
+/**/
+/*//////////////////////////////////////////////////////////////////////////FOOTER///////////////////////////////////////////////////*/
+.footer-text
+	{
+	float:center;
+	text-align:center;
+	font-size:10pt;
+	margin-top:-15px;
+	color:gray;
+	}
+.footer-text-text a: link,.footer-text a:visited, .footer-text a:hover
+	{
+	float:center;
+	text-align:center;
+	font-size:7pt;
+	margin-top:-4px;
+	color:#a0a0a0
+	}
+.footer
+	{
+
+	position:relative;
+	background-color:black;
+	height:40px;
+	width:1265px;
+	top:20px;
+	
+	
+	}
+/**/
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*////////////////////////////////////////////////////////////////////////cr7///////////////////////////////////////////////////////////////////////////////////////////*/
+#cr7-articulo
+	{
+	position:relative;
+	background-image:url(../img/cr72.jpg);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px;
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#cr7-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.cr7-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.video2
+	{
+	position:absolute;
+	left:870px;
+	top:30px;
+	}
+.content-float
+	{
+	position:absolute;
+	top:300px;
+	font-family:arial;
+	font-size:9px;
+	left:850px;
+	text-align:left;
+	font-weight:bold;
+	margin-top:20px;
+	margin-left:24px;
+	width:368px;
+	height:260px;
+	background-image:url(../img/fut.jpg);
+	background-repeat:no-repeat; 	
+	background-size:440px;
+	color:white;
+	overflow:auto;
+	box-shadow:0px 0px 0px white;
+	}
+	
+.content.float:hover
+	{
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.articulo2-imagen-22
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/real.png);
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+
+/*////////////////////////////////////////////////////////////////////////messi///////////////////////////////////////////////////////////////////////////////////////////*/
+
+#messi-articulo
+	{
+	position:relative;
+	background-image:url(../img/messi.png);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#messi-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.messi-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-23
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/fc.jpg);
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+/*////////////////////////////////////////////////////////////////////////falcao///////////////////////////////////////////////////////////////////////////////////////////*/
+
+#falacao-articulo
+	{
+	position:relative;
+	background-image:url(../img/falcao.png);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#falcao-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.falcao-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-24
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/man.jpg);
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+/*////////////////////////////////////////////////////////////////////////muriel///////////////////////////////////////////////////////////////////////////////////////////*/
+
+#muriel-articulo
+	{
+	position:relative;
+	background-image:url(../img/muriel2.jpg);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#muriel-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.muriel-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-25
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/colombia.jpg);
+	background-position:center;
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+/*////////////////////////////////////////////////////////////////////////falcao///////////////////////////////////////////////////////////////////////////////////////////*/
+
+#jamez-articulo
+	{
+	position:relative;
+	background-image:url(../img/jamez1.png);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#jamez-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.jamez-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-26
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/jamez2.jpg);
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+
+/*////////////////////////////////////////////////////////////////////////pogba//////////////////////////////////////////////////////////////////////////////////////////*/
+
+#pogba-articulo
+	{
+	position:relative;
+	background-image:url(../img/pogba1.jpg);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#pogba-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.pogba-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-27
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/pogba.jpg);
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+
+/*////////////////////////////////////////////////////////////////////////rooney//////////////////////////////////////////////////////////////////////////////////////////*/
+
+#rooney-articulo
+	{
+	position:relative;
+	background-image:url(../img/rooney1.jpg);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#rooney-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.rooney-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-28
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/rooney.1.jpg);
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+
+/*////////////////////////////////////////////////////////////////////////ibrahimovic//////////////////////////////////////////////////////////////////////////////////////////*/
+
+#ibrahimovic-articulo
+	{
+	position:relative;
+	background-image:url(../img/hibra.jpg);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#ibrahimovic-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.ibrahimovic-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-29
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/zlatan.1.jpg);
+	background-position:center;
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+
+/*////////////////////////////////////////////////////////////////////////reus//////////////////////////////////////////////////////////////////////////////////////////*/
+
+#reus-articulo
+	{
+	position:relative;
+	background-image:url(../img/reus1.png);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#reus-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.reus-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-30
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/reus1.jpg);
+	background-position:center;
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+/*////////////////////////////////////////////////////////////////////////rooney//////////////////////////////////////////////////////////////////////////////////////////*/
+
+#robe-articulo
+	{
+	position:relative;
+	background-image:url(../img/roben1.png);
+	background-size:800px;
+	background-position:center;
+	background-repeat:no-repeat;
+	float:left;
+	top:30px;
+	left:45px;
+	height:400px; 	
+	width:800px;
+	border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+#robe-articulo:hover 
+	{
+	color:black;
+	text-decoration:none;
+	-moz-box-shadow:opx 0px 0px white;
+	-webkit-box-shadow:opx 0px 0px white;
+	box-shadow:0px 0px 50px white;
+	
+	}
+.roben-articulo-text
+	{
+	text-align:center;
+	position:relative;
+	background-color:black;
+	color:white;
+	float:left;
+	top:320px;
+	left:0px;
+	height:80px ;
+	width:800px;
+	border-radius:0px 0px 10px 10px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	opacity:0.7;
+	
+	}
+
+.articulo2-imagen-31
+	{
+	text-align:center;
+	position:relative;
+	background-image:url(../img/roben2.jpg);
+	background-position:center;
+	color:white;
+	font-family:arial;
+	font-size:12px;
+	float:left;
+	top:80px;
+	left:50px;
+	height:80px ;
+	width:800px;
+	box-shadow:0px 0px 40px #2E2E2E;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
